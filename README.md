@@ -159,7 +159,7 @@ The Spanish model uses the **UD Spanish-GSD** corpus.
 Place the corpus at:
 
 ```text
-data/UD_Spanish-GSD/
+data/spanish/UD_Spanish-GSD/
 ```
 
 The expected files are:
