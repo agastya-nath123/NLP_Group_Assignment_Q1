@@ -1,4 +1,5 @@
 UD_Spanish-GSD/
+models/
 __pycache__/
 *.pyc
 .DS_Store
